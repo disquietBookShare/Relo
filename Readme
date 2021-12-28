@@ -1,0 +1,2 @@
+我们通过get请求获取维基页面的named和id之间的映射：
+http://39.103.225.13:8383/get_task/?id=Sakamoto
